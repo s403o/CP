@@ -26,4 +26,6 @@ int main()
 {
 	fast;
 	Test();
+	
+	return 0;
 }
